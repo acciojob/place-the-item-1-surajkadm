@@ -1,29 +1,29 @@
-.item{
+.element{
     
     width: 500px;
 }
-.item-1{
+.element-1{
     font-size: 200px;
     background-color: red;
 }
-.item-2{
+.element-2{
     font-size: 200px;
     background-color: red;
 }
-.item-3{
+.element-3{
     font-size: 200px;
     background-color: red;
 }
-.item-4{
+.element-4{
     font-size: 200px;
     background-color: red;
 }
-.item-5{
+.element-5{
     font-size: 200px;
     background-color: red;
 }
 
-.element{
+.holder{
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
